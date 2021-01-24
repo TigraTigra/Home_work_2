@@ -25,4 +25,4 @@ while digit != 111:
     print(f"текущий список - {my_list}")
     digit = int(input("Введите число "))
 
-#1234
+#12345
